@@ -1,0 +1,851 @@
+{
+  "employees": [
+    {
+      "id": "emp_7z7kn24gka",
+      "first": "Marie",
+      "last": "Martin",
+      "role": "Directrice",
+      "dept": "Direction",
+      "team": "Direction",
+      "contract": "CDI",
+      "accessRole": "direction",
+      "login": "marie.martin",
+      "pass": "admin123",
+      "email": "marie.martin@entreprise.fr",
+      "phone": "06 16 82 59 42",
+      "hired": "2024-01-16",
+      "avatar": "media_dd9dak680k",
+      "presence": "online",
+      "status": "active",
+      "notes": "",
+      "skills": [
+        {
+          "name": "Management",
+          "level": 92
+        },
+        {
+          "name": "Stratégie",
+          "level": 88
+        },
+        {
+          "name": "RH",
+          "level": 80
+        }
+      ]
+    },
+    {
+      "id": "emp_i6a96kvgka",
+      "first": "Thomas",
+      "last": "Bernard",
+      "role": "Responsable IT",
+      "dept": "Support",
+      "team": "Support",
+      "contract": "CDI",
+      "accessRole": "manager",
+      "login": "thomas.bernard",
+      "pass": "manager123",
+      "email": "thomas.bernard@entreprise.fr",
+      "phone": "06 60 82 23 72",
+      "hired": "2021-05-12",
+      "avatar": "media_39iai57nln",
+      "presence": "online",
+      "status": "active",
+      "notes": "",
+      "skills": [
+        {
+          "name": "Windows",
+          "level": 90
+        },
+        {
+          "name": "Réseau",
+          "level": 85
+        },
+        {
+          "name": "PowerShell",
+          "level": 78
+        },
+        {
+          "name": "Cybersécurité",
+          "level": 70
+        }
+      ]
+    },
+    {
+      "id": "emp_d97lkgogka",
+      "first": "Jean",
+      "last": "Dupont",
+      "role": "Technicien",
+      "dept": "Support",
+      "team": "Support",
+      "contract": "CDI",
+      "accessRole": "salarie",
+      "login": "jean.dupont",
+      "pass": "staff123",
+      "email": "jean.dupont@entreprise.fr",
+      "phone": "06 44 82 90 37",
+      "hired": "2019-06-13",
+      "avatar": "media_yyugj7c2lj",
+      "presence": "online",
+      "status": "active",
+      "notes": "",
+      "skills": [
+        {
+          "name": "Windows",
+          "level": 82
+        },
+        {
+          "name": "Réseau",
+          "level": 74
+        },
+        {
+          "name": "PowerShell",
+          "level": 60
+        },
+        {
+          "name": "Cybersécurité",
+          "level": 55
+        }
+      ]
+    },
+    {
+      "id": "emp_iobezdkgka",
+      "first": "Sophie",
+      "last": "Petit",
+      "role": "Développeuse",
+      "dept": "Technique",
+      "team": "Produit",
+      "contract": "CDI",
+      "accessRole": "salarie",
+      "login": "sophie.petit",
+      "pass": "staff123",
+      "email": "sophie.petit@entreprise.fr",
+      "phone": "06 67 68 74 18",
+      "hired": "2020-02-11",
+      "avatar": "media_5pp1c6kew0",
+      "presence": "online",
+      "status": "active",
+      "notes": "",
+      "skills": [
+        {
+          "name": "JavaScript",
+          "level": 88
+        },
+        {
+          "name": "PHP",
+          "level": 80
+        },
+        {
+          "name": "SQL",
+          "level": 76
+        }
+      ]
+    },
+    {
+      "id": "emp_ad72ogxgka",
+      "first": "Paul",
+      "last": "Durand",
+      "role": "Commercial",
+      "dept": "Vente",
+      "team": "Vente",
+      "contract": "CDI",
+      "accessRole": "salarie",
+      "login": "paul.durand",
+      "pass": "staff123",
+      "email": "paul.durand@entreprise.fr",
+      "phone": "06 68 24 92 80",
+      "hired": "2023-04-16",
+      "avatar": "media_61x1ynhoki",
+      "presence": "offline",
+      "status": "active",
+      "notes": "",
+      "skills": [
+        {
+          "name": "Négociation",
+          "level": 84
+        },
+        {
+          "name": "CRM",
+          "level": 72
+        }
+      ]
+    },
+    {
+      "id": "emp_4pnp6kjgka",
+      "first": "Léa",
+      "last": "Moreau",
+      "role": "Chargée RH",
+      "dept": "Direction",
+      "team": "Direction",
+      "contract": "CDI",
+      "accessRole": "manager",
+      "login": "lea.moreau",
+      "pass": "manager123",
+      "email": "lea.moreau@entreprise.fr",
+      "phone": "06 40 24 44 87",
+      "hired": "2023-02-15",
+      "avatar": "media_bnk7hkzz87",
+      "presence": "online",
+      "status": "active",
+      "notes": "",
+      "skills": [
+        {
+          "name": "Recrutement",
+          "level": 86
+        },
+        {
+          "name": "Paie",
+          "level": 78
+        }
+      ]
+    },
+    {
+      "id": "emp_ubvms0zgka",
+      "first": "Hugo",
+      "last": "Lefèvre",
+      "role": "Technicien",
+      "dept": "Support",
+      "team": "Support",
+      "contract": "CDD",
+      "accessRole": "salarie",
+      "login": "hugo.lefevre",
+      "pass": "staff123",
+      "email": "hugo.lefevre@entreprise.fr",
+      "phone": "06 80 68 97 51",
+      "hired": "2024-04-16",
+      "avatar": "media_cv0999zaln",
+      "presence": "online",
+      "status": "active",
+      "notes": "",
+      "skills": [
+        {
+          "name": "Windows",
+          "level": 68
+        },
+        {
+          "name": "Support N1",
+          "level": 75
+        }
+      ]
+    },
+    {
+      "id": "emp_vbv9djtgka",
+      "first": "Camille",
+      "last": "Roux",
+      "role": "Designer",
+      "dept": "Technique",
+      "team": "Produit",
+      "contract": "CDI",
+      "accessRole": "salarie",
+      "login": "camille.roux",
+      "pass": "staff123",
+      "email": "camille.roux@entreprise.fr",
+      "phone": "06 77 68 30 70",
+      "hired": "2020-02-18",
+      "avatar": "media_lh126xhjwh",
+      "presence": "away",
+      "status": "active",
+      "notes": "",
+      "skills": [
+        {
+          "name": "UI/UX",
+          "level": 90
+        },
+        {
+          "name": "Figma",
+          "level": 88
+        }
+      ]
+    },
+    {
+      "id": "emp_hh450p6gka",
+      "first": "Admin",
+      "last": "Système",
+      "role": "Administrateur",
+      "dept": "Direction",
+      "team": "Direction",
+      "contract": "CDI",
+      "accessRole": "admin",
+      "login": "admin",
+      "pass": "admin",
+      "email": "admin@entreprise.fr",
+      "phone": "06 41 82 81 97",
+      "hired": "2023-04-15",
+      "avatar": "media_kulr9qzqx3",
+      "presence": "online",
+      "status": "active",
+      "notes": "",
+      "skills": [
+        {
+          "name": "Système",
+          "level": 95
+        }
+      ]
+    }
+  ],
+  "missions": [
+    {
+      "id": "mis_v91e34igka",
+      "title": "Audit du parc informatique",
+      "desc": "Vérifier l'ensemble des postes Windows 10/11 et recenser les mises à niveau nécessaires.",
+      "assignees": [
+        "emp_d97lkgogka",
+        "emp_ubvms0zgka"
+      ],
+      "lead": "emp_i6a96kvgka",
+      "prio": "h",
+      "start": "2026-09-01",
+      "due": "2026-09-12",
+      "status": "doing",
+      "progress": 65,
+      "checklist": [
+        {
+          "t": "Inventaire des postes",
+          "done": true
+        },
+        {
+          "t": "Sauvegarde des données",
+          "done": true
+        },
+        {
+          "t": "Test compatibilité",
+          "done": true
+        },
+        {
+          "t": "Migration Windows 11",
+          "done": false
+        },
+        {
+          "t": "Rapport final",
+          "done": false
+        }
+      ],
+      "createdBy": "emp_7z7kn24gka",
+      "createdAt": 1790045628949.2153
+    },
+    {
+      "id": "mis_nfc6k07gka",
+      "title": "Migration serveur de fichiers",
+      "desc": "Basculer le partage réseau vers le nouveau NAS.",
+      "assignees": [
+        "emp_i6a96kvgka"
+      ],
+      "lead": "emp_i6a96kvgka",
+      "prio": "h",
+      "start": "2026-09-03",
+      "due": "2026-09-09",
+      "status": "doing",
+      "progress": 40,
+      "checklist": [
+        {
+          "t": "Préparation NAS",
+          "done": true
+        },
+        {
+          "t": "Copie des données",
+          "done": true
+        },
+        {
+          "t": "Bascule",
+          "done": false
+        },
+        {
+          "t": "Tests",
+          "done": false
+        }
+      ],
+      "createdBy": "emp_7z7kn24gka",
+      "createdAt": 1789586928889.308
+    },
+    {
+      "id": "mis_jzg1shggka",
+      "title": "Refonte page produit",
+      "desc": "Nouvelle maquette + intégration responsive.",
+      "assignees": [
+        "emp_vbv9djtgka",
+        "emp_iobezdkgka"
+      ],
+      "lead": "emp_iobezdkgka",
+      "prio": "m",
+      "start": "2026-08-28",
+      "due": "2026-09-15",
+      "status": "doing",
+      "progress": 55,
+      "checklist": [
+        {
+          "t": "Wireframes",
+          "done": true
+        },
+        {
+          "t": "Maquette haute-fidélité",
+          "done": true
+        },
+        {
+          "t": "Intégration HTML/CSS",
+          "done": false
+        },
+        {
+          "t": "Recette",
+          "done": false
+        }
+      ],
+      "createdBy": "emp_7z7kn24gka",
+      "createdAt": 1789887760047.6
+    },
+    {
+      "id": "mis_k4nskr0gka",
+      "title": "Campagne prospection Q4",
+      "desc": "Relancer les 40 comptes dormants.",
+      "assignees": [
+        "emp_ad72ogxgka"
+      ],
+      "lead": "emp_7z7kn24gka",
+      "prio": "m",
+      "start": "2026-09-05",
+      "due": "2026-09-30",
+      "status": "todo",
+      "progress": 0,
+      "checklist": [
+        {
+          "t": "Liste des comptes",
+          "done": false
+        },
+        {
+          "t": "Séquence e-mails",
+          "done": false
+        },
+        {
+          "t": "Appels de suivi",
+          "done": false
+        }
+      ],
+      "createdBy": "emp_7z7kn24gka",
+      "createdAt": 1789723623936.4553
+    },
+    {
+      "id": "mis_oa3qrxcgka",
+      "title": "Mise à jour antivirus",
+      "desc": "Déployer la nouvelle console EDR sur tous les postes.",
+      "assignees": [
+        "emp_d97lkgogka"
+      ],
+      "lead": "emp_i6a96kvgka",
+      "prio": "l",
+      "start": "2026-09-02",
+      "due": "2026-09-20",
+      "status": "todo",
+      "progress": 0,
+      "checklist": [
+        {
+          "t": "Validation licence",
+          "done": false
+        },
+        {
+          "t": "Déploiement pilote",
+          "done": false
+        },
+        {
+          "t": "Généralisation",
+          "done": false
+        }
+      ],
+      "createdBy": "emp_7z7kn24gka",
+      "createdAt": 1789985995821.9048
+    },
+    {
+      "id": "mis_cmzdsikgka",
+      "title": "Formation cybersécurité",
+      "desc": "Session de sensibilisation phishing pour tous les services.",
+      "assignees": [
+        "emp_4pnp6kjgka",
+        "emp_i6a96kvgka"
+      ],
+      "lead": "emp_4pnp6kjgka",
+      "prio": "l",
+      "start": "2026-08-20",
+      "due": "2026-08-27",
+      "status": "done",
+      "progress": 100,
+      "checklist": [
+        {
+          "t": "Support de formation",
+          "done": true
+        },
+        {
+          "t": "Convocations",
+          "done": true
+        },
+        {
+          "t": "Session",
+          "done": true
+        },
+        {
+          "t": "Quiz d'évaluation",
+          "done": true
+        }
+      ],
+      "createdBy": "emp_7z7kn24gka",
+      "createdAt": 1789700152032.1904
+    },
+    {
+      "id": "mis_krdy2bngka",
+      "title": "Nouveaux badges d'accès",
+      "desc": "Renouvellement des badges du bâtiment B.",
+      "assignees": [
+        "emp_ubvms0zgka"
+      ],
+      "lead": "emp_7z7kn24gka",
+      "prio": "m",
+      "start": "2026-08-15",
+      "due": "2026-08-25",
+      "status": "done",
+      "progress": 100,
+      "checklist": [
+        {
+          "t": "Commande",
+          "done": true
+        },
+        {
+          "t": "Encodage",
+          "done": true
+        },
+        {
+          "t": "Distribution",
+          "done": true
+        }
+      ],
+      "createdBy": "emp_7z7kn24gka",
+      "createdAt": 1789621294021.8936
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg_e4u8a4fgka",
+      "from": "emp_7z7kn24gka",
+      "to": "emp_d97lkgogka",
+      "text": "Bonjour Jean, où en est l'audit du parc ?",
+      "at": 1790082251290,
+      "read": true
+    },
+    {
+      "id": "msg_mr6xg43gka",
+      "from": "emp_d97lkgogka",
+      "to": "emp_7z7kn24gka",
+      "text": "Bonjour, la migration est en cours. Ce sera terminé mercredi.",
+      "at": 1790082651290,
+      "read": true
+    },
+    {
+      "id": "msg_qtr94uogka",
+      "from": "emp_7z7kn24gka",
+      "to": "emp_d97lkgogka",
+      "text": "Parfait, merci pour le suivi 👍",
+      "at": 1790086451290,
+      "read": false
+    },
+    {
+      "id": "msg_k4nb750gka",
+      "from": "emp_i6a96kvgka",
+      "to": "emp_d97lkgogka",
+      "text": "Pense à documenter les postes récalcitrants.",
+      "at": 1790088251290,
+      "read": false
+    }
+  ],
+  "requests": [
+    {
+      "id": "req_dkoy1kmgka",
+      "emp": "emp_d97lkgogka",
+      "type": "Télétravail",
+      "from": "2026-09-08",
+      "to": "2026-09-09",
+      "reason": "Intervention à distance sur le NAS.",
+      "status": "pending",
+      "at": 1790088551290
+    },
+    {
+      "id": "req_qtqntmsgka",
+      "emp": "emp_iobezdkgka",
+      "type": "Congé",
+      "from": "2026-09-22",
+      "to": "2026-09-26",
+      "reason": "Congés annuels.",
+      "status": "pending",
+      "at": 1790085451290
+    },
+    {
+      "id": "req_bnawj4zgka",
+      "emp": "emp_ad72ogxgka",
+      "type": "Matériel",
+      "from": "2026-09-04",
+      "to": "",
+      "reason": "Demande d'un second écran.",
+      "status": "accepted",
+      "at": 1790069451290
+    }
+  ],
+  "events": [
+    {
+      "id": "ev_pgesxm9gka",
+      "date": "2026-09-04",
+      "title": "Réunion hebdo",
+      "type": "reunion"
+    },
+    {
+      "id": "ev_0d3uy87gka",
+      "date": "2026-09-09",
+      "title": "Échéance : Audit parc",
+      "type": "mission"
+    },
+    {
+      "id": "ev_d8t9wolgka",
+      "date": "2026-09-12",
+      "title": "Formation Windows 11",
+      "type": "formation"
+    },
+    {
+      "id": "ev_fjd67hrgka",
+      "date": "2026-09-22",
+      "title": "Point équipe Support",
+      "type": "reunion"
+    },
+    {
+      "id": "ev_9da0nt3gka",
+      "date": "2026-09-22",
+      "title": "Congé — S. Petit",
+      "type": "conge"
+    }
+  ],
+  "evaluations": [
+    {
+      "id": "ev_hknscv0gka",
+      "emp": "emp_d97lkgogka",
+      "by": "emp_i6a96kvgka",
+      "at": 1788589451290,
+      "scores": {
+        "Ponctualité": 5,
+        "Qualité": 4,
+        "Autonomie": 4,
+        "Communication": 5,
+        "Technique": 4
+      },
+      "comment": "Très bonne progression sur les aspects réseau. Continuer la montée en compétences PowerShell."
+    }
+  ],
+  "activity": [
+    {
+      "id": "a_li8zrl8sfl",
+      "at": 1790507364465,
+      "who": "emp_7z7kn24gka",
+      "text": "a modifié la fiche de Admin Système"
+    },
+    {
+      "id": "a_xeq72c8l13",
+      "at": 1790507354871,
+      "who": "emp_7z7kn24gka",
+      "text": "a modifié la fiche de Camille Roux"
+    },
+    {
+      "id": "a_x2rjxh3boh",
+      "at": 1790507342753,
+      "who": "emp_7z7kn24gka",
+      "text": "a modifié la fiche de Hugo Lefèvre"
+    },
+    {
+      "id": "a_on02rgw0lt",
+      "at": 1790507328401,
+      "who": "emp_7z7kn24gka",
+      "text": "a modifié la fiche de Léa Moreau"
+    },
+    {
+      "id": "a_zx11645pkp",
+      "at": 1790507314105,
+      "who": "emp_7z7kn24gka",
+      "text": "a modifié la fiche de Paul Durand"
+    },
+    {
+      "id": "a_gpd13b6g4q",
+      "at": 1790507301866,
+      "who": "emp_7z7kn24gka",
+      "text": "a modifié la fiche de Sophie Petit"
+    },
+    {
+      "id": "a_l1od3593s4",
+      "at": 1790507285860,
+      "who": "emp_7z7kn24gka",
+      "text": "a modifié la fiche de Jean Dupont"
+    },
+    {
+      "id": "a_wv9fhfiong",
+      "at": 1790507266252,
+      "who": "emp_7z7kn24gka",
+      "text": "a modifié la fiche de Thomas Bernard"
+    },
+    {
+      "id": "a_166mj7390x",
+      "at": 1790507246001,
+      "who": "emp_7z7kn24gka",
+      "text": "a modifié la fiche de Marie Martin"
+    },
+    {
+      "id": "a_wvru2720r5",
+      "at": 1790496551057,
+      "who": "emp_7z7kn24gka",
+      "text": "s'est connecté(e)"
+    },
+    {
+      "id": "a_lmml2qr920",
+      "at": 1790494229016,
+      "who": "emp_7z7kn24gka",
+      "text": "s'est connecté(e)"
+    },
+    {
+      "id": "a_2zcsb6qrk9",
+      "at": 1790494206345,
+      "who": "emp_7z7kn24gka",
+      "text": "a modifié la fiche de Admin Système"
+    },
+    {
+      "id": "a_cf3iykqkh2",
+      "at": 1790494197158,
+      "who": "emp_7z7kn24gka",
+      "text": "a modifié la fiche de Camille Roux"
+    },
+    {
+      "id": "a_cyl9q95c8o",
+      "at": 1790494186488,
+      "who": "emp_7z7kn24gka",
+      "text": "a modifié la fiche de Hugo Lefèvre"
+    },
+    {
+      "id": "a_anuq2iw0vz",
+      "at": 1790494171775,
+      "who": "emp_7z7kn24gka",
+      "text": "a modifié la fiche de Léa Moreau"
+    },
+    {
+      "id": "a_eut4fg0s1b",
+      "at": 1790494160303,
+      "who": "emp_7z7kn24gka",
+      "text": "a modifié la fiche de Paul Durand"
+    },
+    {
+      "id": "a_gdx2v50bg7",
+      "at": 1790494138807,
+      "who": "emp_7z7kn24gka",
+      "text": "a modifié la fiche de Sophie Petit"
+    },
+    {
+      "id": "a_4xnpzu72da",
+      "at": 1790494127038,
+      "who": "emp_7z7kn24gka",
+      "text": "a modifié la fiche de Jean Dupont"
+    },
+    {
+      "id": "a_12om6rkrox",
+      "at": 1790494113201,
+      "who": "emp_7z7kn24gka",
+      "text": "a modifié la fiche de Thomas Bernard"
+    },
+    {
+      "id": "a_31nyf7fbcn",
+      "at": 1790494092023,
+      "who": "emp_7z7kn24gka",
+      "text": "a modifié la fiche de Marie Martin"
+    },
+    {
+      "id": "a_a8q6wjiok5",
+      "at": 1790494062485,
+      "who": "emp_7z7kn24gka",
+      "text": "s'est connecté(e)"
+    },
+    {
+      "id": "a_ygofap39h8",
+      "at": 1790493436412,
+      "who": "emp_7z7kn24gka",
+      "text": "s'est connecté(e)"
+    },
+    {
+      "id": "a_go03c3ggol",
+      "at": 1790089451445,
+      "who": "emp_7z7kn24gka",
+      "text": "s'est connecté(e)"
+    },
+    {
+      "id": "a_zeq5hb5gka",
+      "at": 1790088551290,
+      "who": "emp_d97lkgogka",
+      "text": "a soumis une demande de <b>télétravail</b>"
+    },
+    {
+      "id": "a_mqffcwkgka",
+      "at": 1790087651290,
+      "who": "emp_7z7kn24gka",
+      "text": "a attribué la mission <b>Audit du parc informatique</b>"
+    },
+    {
+      "id": "a_iwdvhsmgka",
+      "at": 1790086451290,
+      "who": "emp_vbv9djtgka",
+      "text": "a mis à jour <b>Refonte page produit</b> (55%)"
+    },
+    {
+      "id": "a_l2k1ntsgka",
+      "at": 1790084251290,
+      "who": "emp_i6a96kvgka",
+      "text": "s'est connecté(e)"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "n_yeehattgka",
+      "for": "direction",
+      "text": "Nouvelle demande de télétravail — Jean Dupont",
+      "at": 1790088551290,
+      "read": false,
+      "kind": "warn"
+    },
+    {
+      "id": "n_1srqiu4gka",
+      "for": "direction",
+      "text": "Mission « Formation cybersécurité » terminée",
+      "at": 1790069451290,
+      "read": true,
+      "kind": "ok"
+    },
+    {
+      "id": "n_i6im2qngka",
+      "for": "emp_d97lkgogka",
+      "text": "Nouvelle mission attribuée : Audit du parc informatique",
+      "at": 1790087651290,
+      "read": false,
+      "kind": "info"
+    },
+    {
+      "id": "n_7um8jtwgka",
+      "for": "emp_d97lkgogka",
+      "text": "Nouveau message de la Direction",
+      "at": 1790086451290,
+      "read": false,
+      "kind": "info"
+    }
+  ],
+  "settings": {
+    "company": "Ondea",
+    "logo": null,
+    "address": "Draguignan (83)",
+    "phone": "04 94 00 00 00",
+    "email": "contact@ondea.fr",
+    "web": "ondea.fr",
+    "features": {
+      "missions": true,
+      "messagerie": true,
+      "planning": true,
+      "evaluations": true,
+      "notifications": true,
+      "demandes": true,
+      "meteo": false
+    }
+  },
+  "session": "emp_7z7kn24gka",
+  "failed": 0
+}
